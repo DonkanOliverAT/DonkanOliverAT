@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado con typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+I'm+Donkan+Oliver+%F0%9F%91%8B;Software+Developer+from+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+I'm+Donkan+Oliver+%F0%9F%91%8B;Computer+Engineer+from+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://git.io/typing-svg)
 
 <!-- Banner personalizado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff87&height=200&section=header&text=&fontSize=0" width="100%"/>
@@ -16,17 +16,17 @@
 ```javascript
 const donkan = {
     location: "Santiago, Chile 🇨🇱",
-    education: "Ingeniero en Informática",
+    education: "Computer Engineer",
     currentRole: "Software Developer | Open to Opportunities",
     
     passions: [
-        "Desarrollo de Software",
-        "Desarrollo Web",
+        "Software Development",
+        "Web Development",
         "Building scalable applications"
     ],
     
     currentlyLearning: "Exploring new frameworks and cloud technologies 🚀",
-    funFact: "I built Balonix - a football league management platform with team rankings and player ratings ⚽"
+    funFact: "I co-built Balonix with a small team of 3 people (me and 2 others) - a football league management platform with team rankings and player ratings ⚽"
 };
 ```
 
@@ -45,6 +45,9 @@ const donkan = {
 
 <h3 align="center">⚽ Balonix</h3>
 <div align="center">
+<a href="https://balonix.cl" target="_blank">
+<img src="https://img.shields.io/badge/Balonix-FACC15?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiPjwvY2lyY2xlPjxwYXRoIGQ9Im0xMiA4LTQgNC4yIDIgMi40TDggMTYiPjwvcGF0aD48cGF0aCBkPSJtMTIgOCA0IDQuMi0yIDIuNCAxLjggMS40Ij48L3BhdGg+PC9zdmc+&logoColor=black" alt="Balonix"/>
+</a>
 <p><strong>Football League Management Platform</strong></p>
 <p>A comprehensive platform for scheduling soccer matches with team classifications, player ratings, and league management features.</p>
 <p>
@@ -88,28 +91,6 @@ const donkan = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- Separador -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rlg/giphy.gif" width="30"> &nbsp;GitHub Analytics
-
-<!-- Gráfico de actividad -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonkanOliverAT&custom_title=Donkan's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00FF87&point=00D9FF&area_color=0d1117&title_color=00D9FF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=DonkanOliverAT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DonkanOliverAT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DonkanOliverAT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
