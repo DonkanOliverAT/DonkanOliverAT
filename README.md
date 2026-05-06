@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header animado con typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+I'm+Donkan+Oliver+%F0%9F%91%8B;Computer+Engineer+from+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=750227&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+I'm+Donkan+Oliver+%F0%9F%91%8B;Computer+Engineer+from+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://git.io/typing-svg)
 
 <!-- Banner personalizado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff87&height=200&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:750227,100:a82da8&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -16,8 +16,8 @@
 ```javascript
 const donkan = {
     location: "Santiago, Chile",
-    education: "Computer Engineer",
-    currentRole: "Software Developer | Open to Opportunities",
+    education: "Computer Engineer @ Duoc UC, San Joaquín",
+    currentRole: "Software Developer && Open to Opportunities",
     
     passions: [
         "Software Development",
@@ -35,7 +35,7 @@ const donkan = {
 <!-- Separador -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Projects I've worked on
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE0eDhpMTlpanNuN2l5MGplcmoyM3FqeXVxcnV0b2NnaDcxdTVrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGOMIBLQxbubbs6Bqc/giphy.gif" width="30"> &nbsp;Projects I've worked on
 
 <div align="center">
 
@@ -99,7 +99,7 @@ const donkan = {
 <!-- Separador -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect!
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN28xcGhnamNlNnZyenk3czM1NXYwMW5kZ2J0MDBpbjY1bjBmdnB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPIlGnuHpr2yObu/giphy.gif" width="30"> &nbsp;Let's Connect!
 
 <div align="center">
 
@@ -110,12 +110,11 @@ const donkan = {
 
 ### 💬 Open to collaborate on interesting projects!
 
-<br>
+<!-- <br>
 
-<!-- Quote dinámico con estilo -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote"/>
 
-</div>
+</div> -->
 
 <br>
 
@@ -131,7 +130,7 @@ const donkan = {
 <br>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff87&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:750227,100:a82da8&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
