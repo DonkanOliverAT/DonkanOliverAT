@@ -11,11 +11,11 @@
 <!-- Separador con estilo -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4aGhzMTRxMXBkN3picTExamg0OWVqcDFiM2xzbmp6cGxjNmphZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Ql1aJFFtdExHEc/giphy.gif" width="40"> &nbsp;About Me
 
 ```javascript
 const donkan = {
-    location: "Santiago, Chile 🇨🇱",
+    location: "Santiago, Chile",
     education: "Computer Engineer",
     currentRole: "Software Developer | Open to Opportunities",
     
@@ -25,8 +25,8 @@ const donkan = {
         "Building scalable applications"
     ],
     
-    currentlyLearning: "Exploring new frameworks and cloud technologies 🚀",
-    funFact: "I co-built Balonix with a small team of 3 people (me and 2 others) - a football league management platform with team rankings and player ratings ⚽"
+    currentlyLearning: "Exploring new frameworks and cloud technologies",
+    funFact: "Co-built Balonix with a 3-person team: a football league management platform featuring team rankings and player ratings."
 };
 ```
 
